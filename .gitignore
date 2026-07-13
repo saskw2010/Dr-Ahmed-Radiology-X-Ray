@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.dcm
+*.zip
+archive/raw/
+archive/patient-identifiable/
+*.env
